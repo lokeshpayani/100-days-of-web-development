@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    color:rgb(83, 75, 75);
+  }
+  h1 {
+    font-family: "Oswald";
+  }
+  
+  p {
+    font-family: "Fira sans";
+  }
+  
+  a {
+    font-family: "Fira sans";
+    color: rgb(27, 81, 197);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }  
+
+  #todays-challenge {
+    color: rgb(170, 96, 83);
+    font-weight: bold;
+    font-size: 52px;
+  }
+  #todays-challenge2 {
+    color: rgb(199, 77, 46);
+    font-weight: 500;
+    font-size: 52px;
+  }
